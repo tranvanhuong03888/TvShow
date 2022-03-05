@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/drawable/background_back_button.xml" value="0.14444444444444443" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/drawable/background_fab.xml" value="0.13148148148148148" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/drawable/background_fading_edge.xml" value="0.14444444444444443" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/drawable/background_slider_indicator_active.xml" value="0.14444444444444443" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/drawable/background_slider_indicator_inactive.xml" value="0.14444444444444443" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/drawable/background_tv_show.xml" value="0.1527777777777778" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.14629629629629629" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/layout/activity_search.xml" value="0.1388888888888889" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/layout/activity_tvshow_details.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/layout/activity_watch_list.xml" value="0.14166666666666666" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/layout/item_container_episode.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/layout/item_container_slider_image.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/layout/item_container_tv_show.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MVVMTVShows/app/src/main/res/layout/layout_episodes_bottom_sheet.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
